@@ -1,1 +1,1 @@
-I know C, C++, and Java, but mostly C.
+I know C, C++, JavaScript, Python, and Java; but mostly C.
